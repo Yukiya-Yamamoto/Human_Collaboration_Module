@@ -1,4 +1,4 @@
-# Human-Collaboration-Module-System
+# Human-Collaboration-Module
 
 # 概要
 ○人協働マニピュレーション機能インターフェース仕様書をもとに,人協働マニピュレーションモジュールをROSで実装を行った．  
